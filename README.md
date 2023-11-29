@@ -8,7 +8,7 @@ import the math function
 ### Step 2: 
 define the corrdinates of the two points
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.JPG)
+Substitute the values in the distance formula 
 ### Step 4: 
 calculate the euclidean distance using the distance formula 
 ### Step 5:
